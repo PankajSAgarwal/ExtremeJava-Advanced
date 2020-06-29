@@ -1,4 +1,4 @@
-package playground;
+package playground.streams;
 
 public enum FileTokens {
     EOF

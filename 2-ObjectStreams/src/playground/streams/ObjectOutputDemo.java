@@ -1,4 +1,4 @@
-package playground;
+package playground.streams;
 
 import java.io.*;
 import java.util.ArrayList;
