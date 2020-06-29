@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0da3406-797a-4799-864b-beae290a92de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/playground/cachingobjects/EndOfFileInObjectInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/readwriteobjects/FasterAlien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2-ObjectStreams.iws" beforeDir="false" afterPath="$PROJECT_DIR$/2-ObjectStreams.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2-ObjectStreams/playground/serialization/ObjectOutputDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2-ObjectStreams/playground/serialization/ObjectOutputDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2-ObjectStreams/playground/streams/ObjectInputDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2-ObjectStreams/playground/streams/ObjectInputDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,30 +129,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1593411671328">
+    <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1593418620314">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1593411671328" />
+    <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1593418620314" />
     <state x="458" y="247" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1593414994331">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="247" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1593414994331" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1593416438394">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1593418722175">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593416438394" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1593416438393">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593418722175" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1593418722174">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593416438393" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1593416438393">
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593418722174" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1593418722174">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593416438393" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1593416438393">
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593418722174" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1593418722175">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593416438393" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593418722175" />
     <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1593414347257">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
