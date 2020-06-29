@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0da3406-797a-4799-864b-beae290a92de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/playground/serialization/Alien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/serialization/ObjectOutputDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/cachingobjects/EndOfFileInObjectInputStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2-ObjectStreams.iws" beforeDir="false" afterPath="$PROJECT_DIR$/2-ObjectStreams.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2-ObjectStreams/playground/EndOfFileInObjectInputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2-ObjectStreams/playground/ObjectInputDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/2-ObjectStreams/playground/ObjectOutputDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/EndOfFileInObjectInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/streams/EndOfFileInObjectInputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/FileTokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/streams/FileTokens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/ObjectInputDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/streams/ObjectInputDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/playground/ObjectOutputDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/playground/streams/ObjectOutputDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2-ObjectStreams/playground/serialization/ObjectOutputDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2-ObjectStreams/playground/serialization/ObjectOutputDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/2-ObjectStreams/playground/streams/ObjectInputDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/2-ObjectStreams/playground/streams/ObjectInputDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +36,31 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ObjectInputDemo">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="playground.cachingobjects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EndOfFileInObjectInputStream (2)">
     <configuration name="EndOfFileInObjectInputStream (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="playground.streams.EndOfFileInObjectInputStream" />
       <module name="2-ObjectStreams" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="playground.streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EndOfFileInObjectInputStream (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.cachingobjects.EndOfFileInObjectInputStream" />
+      <module name="2-ObjectStreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.cachingobjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +109,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EndOfFileInObjectInputStream (2)" />
         <item itemvalue="Application.ObjectInputDemo" />
         <item itemvalue="Application.EndOfFileInObjectInputStream (1)" />
         <item itemvalue="Application.ObjectOutputDemo2" />
@@ -122,22 +135,30 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1593411671328" />
-    <state width="1398" height="223" key="GridCell.Tab.0.bottom" timestamp="1593412112079">
+    <state x="458" y="247" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1593414994331">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593412112079" />
-    <state width="1398" height="223" key="GridCell.Tab.0.center" timestamp="1593412112078">
+    <state x="458" y="247" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1593414994331" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1593416438394">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593412112078" />
-    <state width="1398" height="223" key="GridCell.Tab.0.left" timestamp="1593412112078">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593416438394" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1593416438393">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593412112078" />
-    <state width="1398" height="223" key="GridCell.Tab.0.right" timestamp="1593412112078">
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593416438393" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1593416438393">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593412112078" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593416438393" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1593416438393">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593416438393" />
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1593414347257">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1593414347257" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1593410843372">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
