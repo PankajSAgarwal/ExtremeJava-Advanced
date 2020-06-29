@@ -1,0 +1,37 @@
+Java HotSpot(TM) 64-Bit Server VM (25.161-b12) for bsd-amd64 JRE (1.8.0_161-b12), built on Dec 19 2017 16:22:20 by "java_re" with gcc 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2336.11.00)
+Memory: 4k page, physical 8388608k(254328k free)
+
+/proc/meminfo:
+
+CommandLine flags: -XX:InitialHeapSize=134217728 -XX:MaxHeapSize=2147483648 -XX:+PrintGC -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseParallelGC 
+0.409: [GC (Allocation Failure)  33280K->1240K(125952K), 0.0018900 secs]
+0.489: [GC (Allocation Failure)  34520K->976K(125952K), 0.0019054 secs]
+0.531: [GC (Allocation Failure)  34256K->984K(125952K), 0.0009817 secs]
+0.563: [GC (Allocation Failure)  34264K->984K(159232K), 0.0019652 secs]
+0.642: [GC (Allocation Failure)  67544K->1016K(159232K), 0.0018241 secs]
+0.690: [GC (Allocation Failure)  67576K->984K(222208K), 0.0020562 secs]
+0.810: [GC (Allocation Failure)  134104K->964K(222208K), 0.0024416 secs]
+0.872: [GC (Allocation Failure)  134084K->1028K(355328K), 0.0005384 secs]
+1.151: [GC (Allocation Failure)  267268K->1324K(355328K), 0.0011771 secs]
+1.301: [GC (Allocation Failure)  267564K->1300K(515072K), 0.0014871 secs]
+1.764: [GC (Allocation Failure)  427284K->1380K(515072K), 0.0032246 secs]
+1.974: [GC (Allocation Failure)  427364K->1388K(771072K), 0.0005599 secs]
+2.376: [GC (Allocation Failure)  683372K->1372K(737792K), 0.0005465 secs]
+2.663: [GC (Allocation Failure)  651100K->1380K(707072K), 0.0010131 secs]
+2.898: [GC (Allocation Failure)  620388K->1356K(678912K), 0.0005779 secs]
+3.132: [GC (Allocation Failure)  591180K->1428K(650240K), 0.0005410 secs]
+3.345: [GC (Allocation Failure)  563604K->1420K(625152K), 0.0006162 secs]
+3.555: [GC (Allocation Failure)  537484K->1428K(599040K), 0.0010184 secs]
+3.751: [GC (Allocation Failure)  512404K->1436K(576512K), 0.0005148 secs]
+3.933: [GC (Allocation Failure)  488860K->1484K(552960K), 0.0005801 secs]
+4.113: [GC (Allocation Failure)  466380K->1492K(532480K), 0.0005665 secs]
+4.284: [GC (Allocation Failure)  444884K->1516K(510976K), 0.0007242 secs]
+4.446: [GC (Allocation Failure)  424428K->1524K(492544K), 0.0005125 secs]
+4.602: [GC (Allocation Failure)  404980K->1500K(473088K), 0.0010335 secs]
+4.755: [GC (Allocation Failure)  386524K->1540K(456192K), 0.0005559 secs]
+4.898: [GC (Allocation Failure)  369156K->1556K(439296K), 0.0005528 secs]
+5.032: [GC (Allocation Failure)  352788K->1564K(423936K), 0.0005157 secs]
+5.159: [GC (Allocation Failure)  336924K->1572K(408576K), 0.0005581 secs]
+5.279: [GC (Allocation Failure)  322084K->1596K(394752K), 0.0005116 secs]
+5.399: [GC (Allocation Failure)  307772K->1604K(380928K), 0.0005528 secs]
+5.514: [GC (Allocation Failure)  294468K->1868K(368640K), 0.0009074 secs]

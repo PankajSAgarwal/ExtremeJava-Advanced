@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56bdebe6-1d5e-47e8-9803-438a37bdd3fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dqN6ccYNBA9uv5AjU2S2IdNN0h" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="StackifyLogger" />
+      <recent name="JavaSpecialistsLogger" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BetterApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSpecialistsLogger.BetterApplication" />
+      <module name="SimpleLoggingPractices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BetterApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56bdebe6-1d5e-47e8-9803-438a37bdd3fc" name="Default Changelist" comment="" />
+      <created>1593148489464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593148489464</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1593149745032">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1593149745032" />
+    <state x="458" y="237" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1593150331280">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="237" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1593150331280" />
+    <state x="492" y="339" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593150333039">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="492" y="339" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1593150333039" />
+    <state width="1398" height="270" key="GridCell.Tab.0.bottom" timestamp="1593165043294">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593165043294" />
+    <state width="1398" height="270" key="GridCell.Tab.0.center" timestamp="1593165043293">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593165043293" />
+    <state width="1398" height="270" key="GridCell.Tab.0.left" timestamp="1593165043292">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593165043292" />
+    <state width="1398" height="270" key="GridCell.Tab.0.right" timestamp="1593165043294">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="270" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593165043294" />
+  </component>
+</project>
