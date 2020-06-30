@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0da3406-797a-4799-864b-beae290a92de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/playground/readwriteobjects/FasterAlien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise211/ComplexClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise211/CorrectnessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise211/SerializeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/nio/EndianOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/nio/EndianTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/nio/FlipCompact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/nio/MappedFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Benchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ByteWatcherRegressionTestHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/ByteWatcherSingleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/CountingOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/NullOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/SuperSimpleGCParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/TestHelpers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-ObjectStreams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2-ObjectStreams.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2-ObjectStreams.iws" beforeDir="false" afterPath="$PROJECT_DIR$/2-ObjectStreams.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,20 +47,29 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/exercise211" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="playground.cachingobjects" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exercise211" />
+      <recent name="$PROJECT_DIR$/src/util" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.EndOfFileInObjectInputStream (2)">
-    <configuration name="EndOfFileInObjectInputStream (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.streams.EndOfFileInObjectInputStream" />
+  <component name="RunManager" selected="Application.FlipCompact">
+    <configuration name="EndianOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.nio.EndianOrder" />
       <module name="2-ObjectStreams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.streams.*" />
+          <option name="PATTERN" value="playground.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EndOfFileInObjectInputStream (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.cachingobjects.EndOfFileInObjectInputStream" />
+    <configuration name="EndianTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.nio.EndianTest" />
       <module name="2-ObjectStreams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.cachingobjects.*" />
+          <option name="PATTERN" value="playground.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EndOfFileInObjectInputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.EndOfFileInObjectInputStream" />
+    <configuration name="FlipCompact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.nio.FlipCompact" />
       <module name="2-ObjectStreams" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="playground.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectInputDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.streams.ObjectInputDemo" />
+    <configuration name="SerializeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise211.SerializeTest" />
       <module name="2-ObjectStreams" />
+      <option name="VM_PARAMETERS" value="-Xloggc:file211.vgc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.streams.*" />
+          <option name="PATTERN" value="exercise211.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,26 +117,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectOutputDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.serialization.ObjectOutputDemo2" />
+    <configuration name="CorrectnessTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="2-ObjectStreams" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.serialization.*" />
+          <option name="PATTERN" value="exercise211.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="exercise211" />
+      <option name="MAIN_CLASS_NAME" value="exercise211.CorrectnessTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Xloggc:file211.vgc" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.SerializeTest" />
+      <item itemvalue="JUnit.CorrectnessTest" />
+      <item itemvalue="Application.EndianOrder" />
+      <item itemvalue="Application.EndianTest" />
+      <item itemvalue="Application.FlipCompact" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EndOfFileInObjectInputStream (2)" />
-        <item itemvalue="Application.ObjectInputDemo" />
-        <item itemvalue="Application.EndOfFileInObjectInputStream (1)" />
-        <item itemvalue="Application.ObjectOutputDemo2" />
-        <item itemvalue="Application.EndOfFileInObjectInputStream" />
+        <item itemvalue="Application.FlipCompact" />
+        <item itemvalue="Application.EndianTest" />
+        <item itemvalue="Application.EndianOrder" />
+        <item itemvalue="Application.SerializeTest" />
+        <item itemvalue="JUnit.CorrectnessTest" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +167,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593487520132">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1593487520132" />
     <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1593418620314">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -137,26 +179,34 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="247" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.877@0.23.1440.877" timestamp="1593414994331" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1593418722175">
+    <state width="1398" height="313" key="GridCell.Tab.0.bottom" timestamp="1593499713970">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593418722175" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1593418722174">
+    <state width="1398" height="313" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593499713970" />
+    <state width="1398" height="313" key="GridCell.Tab.0.center" timestamp="1593499713969">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593418722174" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1593418722174">
+    <state width="1398" height="313" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593499713969" />
+    <state width="1398" height="313" key="GridCell.Tab.0.left" timestamp="1593499713968">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593418722174" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1593418722175">
+    <state width="1398" height="313" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593499713968" />
+    <state width="1398" height="313" key="GridCell.Tab.0.right" timestamp="1593499713970">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593418722175" />
-    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1593414347257">
+    <state width="1398" height="313" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593499713970" />
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1593496188664">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1593414347257" />
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1593496188664" />
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593486329860">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1593486329860" />
+    <state x="308" y="192" width="824" height="538" key="find.popup" timestamp="1593499061555">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="308" y="192" width="824" height="538" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1593499061555" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1593410843372">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
