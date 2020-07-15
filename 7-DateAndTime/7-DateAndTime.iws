@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b41d242e-4a74-4212-9a66-757fa785d0cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../5-Iteration/src/playground/Giorgos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-Iteration/src/playground/LRUCache/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-Iteration/src/playground/LRUCache/LRUTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-Iteration/src/playground/Octopus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-Iteration/src/playground/Sea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-Iteration/src/playground/compoundkeys/CompoundKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-Iteration/src/playground/concurrentmodificationexception/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-Iteration/src/playground/concurrentmodificationexception/CatIterators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise721/DateFormattingHorror.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise721/DateFormattingHorrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise721/util/Benchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise721/util/ByteWatcherRegressionTestHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise721/util/ByteWatcherSingleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise721/util/CountingOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise721/util/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise721/util/NullOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise721/util/SuperSimpleGCParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise721/util/TestHelpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/AgeCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/TimeZoneExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-ObjectStreams/2-ObjectStreams.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../2-ObjectStreams/2-ObjectStreams.iws" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1e4SfGOrpAlsZw6vfjmAhlxLdjW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/exercise721" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exercise721" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DateFormattingHorrorTest">
+    <configuration name="AgeCalculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.AgeCalculation" />
+      <module name="7-DateAndTime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeZoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playground.TimeZoneExample" />
+      <module name="7-DateAndTime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateFormattingHorrorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="7-DateAndTime" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise721.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise721" />
+      <option name="MAIN_CLASS_NAME" value="exercise721.DateFormattingHorrorTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Xloggc:datetimehorrortest.vgc" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateFormattingHorrorTest.testRaceConditions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="7-DateAndTime" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise721.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise721" />
+      <option name="MAIN_CLASS_NAME" value="exercise721.DateFormattingHorrorTest" />
+      <option name="METHOD_NAME" value="testRaceConditions" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-Xloggc:datetimehorrortest.vgc" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AgeCalculation" />
+      <item itemvalue="Application.TimeZoneExample" />
+      <item itemvalue="JUnit.DateFormattingHorrorTest" />
+      <item itemvalue="JUnit.DateFormattingHorrorTest.testRaceConditions" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DateFormattingHorrorTest" />
+        <item itemvalue="JUnit.DateFormattingHorrorTest.testRaceConditions" />
+        <item itemvalue="Application.TimeZoneExample" />
+        <item itemvalue="Application.AgeCalculation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b41d242e-4a74-4212-9a66-757fa785d0cd" name="Default Changelist" comment="" />
+      <created>1593579474483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593579474483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594749600351">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1594749600351" />
+    <state width="1398" height="345" key="GridCell.Tab.0.bottom" timestamp="1594752845885">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594752845885" />
+    <state width="1398" height="345" key="GridCell.Tab.0.center" timestamp="1594752845884">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594752845884" />
+    <state width="1398" height="345" key="GridCell.Tab.0.left" timestamp="1594752845883">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594752845883" />
+    <state width="1398" height="345" key="GridCell.Tab.0.right" timestamp="1594752845884">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594752845884" />
+    <state width="1398" height="345" key="GridCell.Tab.1.bottom" timestamp="1594749611316">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594749611316" />
+    <state width="1398" height="345" key="GridCell.Tab.1.center" timestamp="1594749611316">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1594749611316" />
+    <state width="1398" height="345" key="GridCell.Tab.1.left" timestamp="1594749611315">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1594749611315" />
+    <state width="1398" height="345" key="GridCell.Tab.1.right" timestamp="1594749611316">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="345" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1594749611316" />
+    <state x="208" y="44" key="SettingsEditor" timestamp="1594747425090">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="44" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1594747425090" />
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593581026798">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1593581026798" />
+  </component>
+</project>
