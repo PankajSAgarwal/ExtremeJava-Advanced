@@ -2,7 +2,7 @@
 <project version="4">
   <component name="DBNavigator.Project.DataEditorManager">
     <record-view-column-sorting-type value="BY_INDEX" />
-    <value-preview-text-wrapping value="false" />
+    <value-preview-text-wrapping value="true" />
     <value-preview-pinned value="false" />
   </component>
   <component name="DBNavigator.Project.DataExportManager">
@@ -608,35 +608,11 @@
           <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
         </formatting-settings>
       </DBN-SQL>
-      <DBN-PSQL>
-        <case-options enabled="true">
-          <option name="KEYWORD_CASE" value="lower" />
-          <option name="FUNCTION_CASE" value="lower" />
-          <option name="PARAMETER_CASE" value="lower" />
-          <option name="DATATYPE_CASE" value="lower" />
-          <option name="OBJECT_CASE" value="preserve" />
-        </case-options>
-        <formatting-settings enabled="false" />
-      </DBN-PSQL>
-      <DBN-SQL>
-        <case-options enabled="true">
-          <option name="KEYWORD_CASE" value="lower" />
-          <option name="FUNCTION_CASE" value="lower" />
-          <option name="PARAMETER_CASE" value="lower" />
-          <option name="DATATYPE_CASE" value="lower" />
-          <option name="OBJECT_CASE" value="preserve" />
-        </case-options>
-        <formatting-settings enabled="false">
-          <option name="STATEMENT_SPACING" value="one_line" />
-          <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
-          <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
-        </formatting-settings>
-      </DBN-SQL>
     </code_scheme>
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/4-Reflection.iml" filepath="$PROJECT_DIR$/4-Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-SortingAndSearching.iml" filepath="$PROJECT_DIR$/5-SortingAndSearching.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8.0_161" project-jdk-type="JavaSDK">

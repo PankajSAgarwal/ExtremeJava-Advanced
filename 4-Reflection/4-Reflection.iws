@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be78b079-6b33-4ecf-8a92-b38a82c05e66" name="Default Changelist" comment="" />
+    <list default="true" id="be78b079-6b33-4ecf-8a92-b38a82c05e66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/4-Reflection.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/4-Reflection.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-Reflection.iws" beforeDir="false" afterPath="$PROJECT_DIR$/4-Reflection.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-Iteration/5-Iteration.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../5-Iteration/5-Iteration.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1duQm4yS5kRhH2hKWd45MaxTxr4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -167,10 +175,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="319" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593405756718" />
-    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1593399811046">
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1594840055404">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1593399811046" />
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1594840055404" />
     <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1593357870889">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

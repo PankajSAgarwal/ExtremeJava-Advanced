@@ -2,35 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a4f341d-d84d-4700-9646-8ec8a9183bb0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercise521_v1/TextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise521_v1/TextFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise521_v1/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise521_v2/TextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise521_v2/TextFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise521_v2/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise522/TextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise522/TextFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/Giorgos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/LRUCache/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/LRUCache/LRUTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/Octopus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/Sea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/compoundkeys/CompoundKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/concurrentmodificationexception/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/playground/concurrentmodificationexception/CatIterators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/exercise721/DateFormattingHorror.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/exercise721/DateFormattingHorrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/exercise721/util/Benchmark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/exercise721/util/ByteWatcherRegressionTestHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/exercise721/util/ByteWatcherSingleThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/exercise721/util/CountingOutputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/exercise721/util/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/exercise721/util/NullOutputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/exercise721/util/SuperSimpleGCParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/exercise721/util/TestHelpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/playground/AgeCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7-DateAndTime/src/playground/TimeZoneExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2-ObjectStreams/2-ObjectStreams.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../2-ObjectStreams/2-ObjectStreams.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-Hashing/src/playground/CompoundKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-Reflection/4-Reflection.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/../4-Reflection/4-Reflection.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-Reflection/4-Reflection.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../4-Reflection/4-Reflection.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5-Iteration.iws" beforeDir="false" afterPath="$PROJECT_DIR$/5-Iteration.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,26 +160,26 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="492" y="375" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.877@0.23.1440.877" timestamp="1594789110002" />
-    <state width="1398" height="222" key="GridCell.Tab.0.bottom" timestamp="1594794468494">
+    <state width="1398" height="222" key="GridCell.Tab.0.bottom" timestamp="1594794690095">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594727920204" />
-    <state width="1398" height="222" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594794468494" />
-    <state width="1398" height="222" key="GridCell.Tab.0.center" timestamp="1594794468494">
+    <state width="1398" height="222" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594794690095" />
+    <state width="1398" height="222" key="GridCell.Tab.0.center" timestamp="1594794690094">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594727920202" />
-    <state width="1398" height="222" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594794468494" />
-    <state width="1398" height="222" key="GridCell.Tab.0.left" timestamp="1594794468493">
+    <state width="1398" height="222" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594794690094" />
+    <state width="1398" height="222" key="GridCell.Tab.0.left" timestamp="1594794690094">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594727920201" />
-    <state width="1398" height="222" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594794468493" />
-    <state width="1398" height="222" key="GridCell.Tab.0.right" timestamp="1594794468494">
+    <state width="1398" height="222" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594794690094" />
+    <state width="1398" height="222" key="GridCell.Tab.0.right" timestamp="1594794690095">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594727920202" />
-    <state width="1398" height="222" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594794468494" />
+    <state width="1398" height="222" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594794690095" />
     <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1594788851518">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
