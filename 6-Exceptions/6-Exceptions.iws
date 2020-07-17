@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf8db95a-caba-4760-b90a-8947b4fc7f34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exercise631/OutOfRangeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise631/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercise631/ThreadPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playground/OutOfRangeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-Queues/5-Queues.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../5-Queues/5-Queues.iws" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1emGWj3ocpLMGZIaYxOSx0wTQbf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/exercise631" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/exercise631" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ThreadPoolTest.testAssertions">
+    <configuration name="ThreadPoolTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6-Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise631.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise631" />
+      <option name="MAIN_CLASS_NAME" value="exercise631.ThreadPoolTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTest.testAssertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6-Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise631.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise631" />
+      <option name="MAIN_CLASS_NAME" value="exercise631.ThreadPoolTest" />
+      <option name="METHOD_NAME" value="testAssertions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTest.testConstructorArguments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6-Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise631.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise631" />
+      <option name="MAIN_CLASS_NAME" value="exercise631.ThreadPoolTest" />
+      <option name="METHOD_NAME" value="testConstructorArguments" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTest.testJobs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6-Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise631.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise631" />
+      <option name="MAIN_CLASS_NAME" value="exercise631.ThreadPoolTest" />
+      <option name="METHOD_NAME" value="testJobs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolTest.testSubmitNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="6-Exceptions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise631.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise631" />
+      <option name="MAIN_CLASS_NAME" value="exercise631.ThreadPoolTest" />
+      <option name="METHOD_NAME" value="testSubmitNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ThreadPoolTest.testAssertions" />
+        <item itemvalue="JUnit.ThreadPoolTest.testSubmitNull" />
+        <item itemvalue="JUnit.ThreadPoolTest.testJobs" />
+        <item itemvalue="JUnit.ThreadPoolTest.testConstructorArguments" />
+        <item itemvalue="JUnit.ThreadPoolTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf8db95a-caba-4760-b90a-8947b4fc7f34" name="Default Changelist" comment="" />
+      <created>1594919388452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594919388452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594964652002">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1594964652001" />
+    <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1594965999197">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="533" y="186" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1594965999197" />
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom" timestamp="1594966692245">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1594966692245" />
+    <state width="1398" height="223" key="GridCell.Tab.0.center" timestamp="1594966692245">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1594966692245" />
+    <state width="1398" height="223" key="GridCell.Tab.0.left" timestamp="1594966692244">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1594966692244" />
+    <state width="1398" height="223" key="GridCell.Tab.0.right" timestamp="1594966692245">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1594966692245" />
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1594962706376">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="376" y="296" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1594962706376" />
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594964507413">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="432" y="365" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1594964507413" />
+  </component>
+</project>
